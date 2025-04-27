@@ -24,10 +24,9 @@ public class Estudiante {
         }
         notaFinal = suma / notas.length;
     }
+    //holaaaa
 
-    public double getNotaFinal() {
-        return notaFinal;
-    }
+   
 
     public void mostrarDatos() {
         System.out.printf("Nombre: %s, Edad: %d, promedio: %.2f\n", nombre, edad, notaFinal);
