@@ -30,7 +30,7 @@ public class Estudiante {
     }
 
     public void mostrarDatos() {
-        System.out.printf("Nombre: %s, Edad: %d, promedio: %.2f\n", nombre, edad, notaFinal);
+        System.out.printf("nombre: %s, Edad: %d, promedio: %.2f\n", nombre, edad, notaFinal);
     }
 }
 
