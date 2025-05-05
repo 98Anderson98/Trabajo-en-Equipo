@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class main {
 
 	public static void main(String[] args) {
+		// se crea el scanner
 		
 		Scanner sc = new Scanner(System.in);
         System.out.print("¿Cuántos estudiantes desea registrar? ");
